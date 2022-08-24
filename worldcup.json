@@ -3,19 +3,19 @@
    "grupo" : "Grupo A",
    "selecaoA" : {
         "nome" : "Qatar",
-        "imagem" : ![QAT](https://user-images.githubusercontent.com/68929840/186499601-09843f9a-6209-4281-80e0-8154ec4a7212.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186499601-09843f9a-6209-4281-80e0-8154ec4a7212.png"
    },
    "selecaoB" : {
         "nome" : "Ecuador"
-        "imagem" : ![ECU](https://user-images.githubusercontent.com/68929840/186499855-4b76661a-ecb3-47a5-828d-eb5d9ac48ef8.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186499855-4b76661a-ecb3-47a5-828d-eb5d9ac48ef8.png"
    },
    "selecaoC" : {
         "nome" : "Senegal"
-        "imagem" : ![SEN](https://user-images.githubusercontent.com/68929840/186500130-c8612026-e6d3-4da0-8155-4eb6778aaa3a.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500130-c8612026-e6d3-4da0-8155-4eb6778aaa3a.png"
    },
    "selecaoD" : {
         "nome" : "Netherlands"
-        "imagem" : ![NED](https://user-images.githubusercontent.com/68929840/186500381-d9899592-8f5e-4fd7-9dd1-b237ec4c4ff7.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500381-d9899592-8f5e-4fd7-9dd1-b237ec4c4ff7.png"
    }
   },
   
@@ -23,20 +23,20 @@
    "grupo" : "Grupo B",
    "selecaoA" : {
         "nome" : "England",
-        "imagem" : ![ENG](https://user-images.githubusercontent.com/68929840/186500924-ed728e49-a64e-49c1-a90e-4352e04b1f18.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500924-ed728e49-a64e-49c1-a90e-4352e04b1f18.png"
 
    },
    "selecaoB" : {
         "nome" : "Iran"
-        "imagem" : ![IRN](https://user-images.githubusercontent.com/68929840/186500964-067eb15d-eae1-40fc-9b46-3a8a9ec896fa.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500964-067eb15d-eae1-40fc-9b46-3a8a9ec896fa.png"
    },
    "selecaoC" : {
         "nome" : "USA"
-        "imagem" : ![USA](https://user-images.githubusercontent.com/68929840/186500977-40fb43d1-85f7-4cab-9a56-7dbfde85e94e.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500977-40fb43d1-85f7-4cab-9a56-7dbfde85e94e.png"
    },
    "selecaoD" : {
         "nome" : "Wales"
-        "imagem" : ![WAL](https://user-images.githubusercontent.com/68929840/186501008-a3756c3b-2fba-4bff-b228-4241f24687c2.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501008-a3756c3b-2fba-4bff-b228-4241f24687c2.png
    }
   },
   
@@ -44,20 +44,20 @@
    "grupo" : "Grupo C",
    "selecaoA" : {
         "nome" : "Argentina",
-        "imagem" : ![ARG](https://user-images.githubusercontent.com/68929840/186501650-32a5b3ce-e5b3-4656-a477-93966125ab21.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501650-32a5b3ce-e5b3-4656-a477-93966125ab21.png"
 
    },
    "selecaoB" : {
         "nome" : "Saudi Arabia"
-        "imagem" : ![KSA](https://user-images.githubusercontent.com/68929840/186501674-da706d3e-08b6-46fd-a602-f8f1607761dc.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501674-da706d3e-08b6-46fd-a602-f8f1607761dc.png"
    },
    "selecaoC" : {
         "nome" : "Mexico"
-        "imagem" : ![MEX](https://user-images.githubusercontent.com/68929840/186501692-b95ad773-4576-476b-93d1-c553302476a8.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501692-b95ad773-4576-476b-93d1-c553302476a8.png"
    },
    "selecaoD" : {
         "nome" : "Poland"
-        "imagem" : ![POL](https://user-images.githubusercontent.com/68929840/186501711-2606ff0c-861f-4bff-b6c7-0fcc9a4c13f3.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501711-2606ff0c-861f-4bff-b6c7-0fcc9a4c13f3.png"
    }
   },
   
@@ -65,19 +65,19 @@
    "grupo" : "Grupo D",
    "selecaoA" : {
         "nome" : "France",
-        "imagem" : ![FRA](https://user-images.githubusercontent.com/68929840/186502092-9fc9b273-f320-46c3-b869-b6b9e819fdf3.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502092-9fc9b273-f320-46c3-b869-b6b9e819fdf3.png"
    },
    "selecaoB" : {
         "nome" : "Denmark"
-        "imagem" : ![DEN](https://user-images.githubusercontent.com/68929840/186502114-10ceaca3-beb5-4d23-ab8a-9f2d889ed41d.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502114-10ceaca3-beb5-4d23-ab8a-9f2d889ed41d.png"
    },
    "selecaoC" : {
         "nome" : "Tunisia"
-        "imagem" : ![TUN](https://user-images.githubusercontent.com/68929840/186502144-ec8d50eb-369d-4c21-b2eb-21b94a429eb8.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502144-ec8d50eb-369d-4c21-b2eb-21b94a429eb8.png"
    },
    "selecaoD" : {
         "nome" : "Australia"
-        "imagem" : ![AUS](https://user-images.githubusercontent.com/68929840/186502174-81a23372-8fbb-4464-a3a1-216f8e68dcbf.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502174-81a23372-8fbb-4464-a3a1-216f8e68dcbf.png"
    }
   },
   
@@ -85,19 +85,19 @@
    "grupo" : "Grupo E",
    "selecaoA" : {
         "nome" : "Spain",
-        "imagem" : ![ESP](https://user-images.githubusercontent.com/68929840/186502916-9dbfc134-9670-4abd-8b90-7259b68a1386.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502916-9dbfc134-9670-4abd-8b90-7259b68a1386.png"
    },
    "selecaoB" : {
         "nome" : "Germany"
-        "imagem" : ![GER](https://user-images.githubusercontent.com/68929840/186502939-895614c4-ac5c-4de8-9de2-3d4ca3b0cf42.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502939-895614c4-ac5c-4de8-9de2-3d4ca3b0cf42.png"
    },
    "selecaoC" : {
         "nome" : "Japan"
-        "imagem" : ![JPN](https://user-images.githubusercontent.com/68929840/186502953-1701fef3-519e-4b44-a07b-87ed7e516f3d.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502953-1701fef3-519e-4b44-a07b-87ed7e516f3d.png"
    },
    "selecaoD" : {
         "nome" : "Costa Rica"
-        "imagem" : ![CRC](https://user-images.githubusercontent.com/68929840/186502970-80b87493-c356-4f4c-a8f4-004fb8e521d7.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502970-80b87493-c356-4f4c-a8f4-004fb8e521d7.png"
    }
   },
   
@@ -105,19 +105,19 @@
    "grupo" : "Grupo F",
    "selecaoA" : {
         "nome" : "Belgium",
-        "imagem" : ![BEL](https://user-images.githubusercontent.com/68929840/186504011-bd4e99bf-2ff9-4164-902a-576340af1ed0.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186504011-bd4e99bf-2ff9-4164-902a-576340af1ed0.png"
    },
    "selecaoB" : {
         "nome" : "Canada"
-        "imagem" : ![CAN](https://user-images.githubusercontent.com/68929840/186504029-5c8b9488-daf2-44a6-b025-033181a77859.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186504029-5c8b9488-daf2-44a6-b025-033181a77859.png"
    },
    "selecaoC" : {
         "nome" : "Morocco"
-        "imagem" : ![MAR](https://user-images.githubusercontent.com/68929840/186504491-368ec43e-8812-4cc5-bfcc-981947a97c26.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186504491-368ec43e-8812-4cc5-bfcc-981947a97c26.png"
    },
    "selecaoD" : {
         "nome" : "Croatia"
-        "imagem" : ![CRO](https://user-images.githubusercontent.com/68929840/186504539-6c39e4f9-a4d2-4931-81fd-404166f9095b.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186504539-6c39e4f9-a4d2-4931-81fd-404166f9095b.png"
    }
   },
   
@@ -125,19 +125,19 @@
    "grupo" : "Grupo G",
    "selecaoA" : {
         "nome" : "Brazil",
-        "imagem" : ![BRA](https://user-images.githubusercontent.com/68929840/186505794-904b50b5-1137-4d7b-839b-7110eb41f0d7.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186505794-904b50b5-1137-4d7b-839b-7110eb41f0d7.png"
    },
    "selecaoB" : {
         "nome" : "Serbia"
-        "imagem" : ![SRB](https://user-images.githubusercontent.com/68929840/186505840-37777982-8a42-4f66-9bdb-7babb68f6838.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186505840-37777982-8a42-4f66-9bdb-7babb68f6838.png"
    },
    "selecaoC" : {
         "nome" : "Switzerland"
-        "imagem" : ![SUI](https://user-images.githubusercontent.com/68929840/186505859-3a213c3a-7874-478d-b204-a422cd6002a8.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186505859-3a213c3a-7874-478d-b204-a422cd6002a8.png"
    },
    "selecaoD" : {
         "nome" : "Cameroon"
-        "imagem" : ![CMR](https://user-images.githubusercontent.com/68929840/186505898-ee0e1bfb-20fe-42b5-9896-902b85b242a4.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186505898-ee0e1bfb-20fe-42b5-9896-902b85b242a4.png"
    }
   },
   
@@ -145,19 +145,19 @@
    "grupo" : "Grupo H",
    "selecaoA" : {
         "nome" : "Portugal",
-        "imagem" : ![POR](https://user-images.githubusercontent.com/68929840/186506309-544e7352-1922-4448-bd2c-54497409644a.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506309-544e7352-1922-4448-bd2c-54497409644a.png"
    },
    "selecaoB" : {
         "nome" : "Ghana"
-        "imagem" : ![GHA](https://user-images.githubusercontent.com/68929840/186506349-65af03dd-4d21-43f7-9bf1-c20eb433faeb.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506349-65af03dd-4d21-43f7-9bf1-c20eb433faeb.png"
    },
    "selecaoC" : {
         "nome" : "Uruguay"
-        "imagem" : ![URU](https://user-images.githubusercontent.com/68929840/186506380-f7aa2c51-262b-4d59-825d-5ac52ef9ec15.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506380-f7aa2c51-262b-4d59-825d-5ac52ef9ec15.png"
    },
    "selecaoD" : {
         "nome" : "Korea Republic"
-        "imagem" : ![KOR](https://user-images.githubusercontent.com/68929840/186506406-a8d34925-bece-408d-ab65-8feb4adc397e.png)
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506406-a8d34925-bece-408d-ab65-8feb4adc397e.png"
    }
   }
 ]
