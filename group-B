@@ -1,0 +1,22 @@
+[
+  {
+   "grupo" : "Grupo B",
+   "selecaoA" : {
+        "nome" : "England",
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500924-ed728e49-a64e-49c1-a90e-4352e04b1f18.png"
+
+   },
+   "selecaoB" : {
+        "nome" : "Iran"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500964-067eb15d-eae1-40fc-9b46-3a8a9ec896fa.png"
+   },
+   "selecaoC" : {
+        "nome" : "USA"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186500977-40fb43d1-85f7-4cab-9a56-7dbfde85e94e.png"
+   },
+   "selecaoD" : {
+        "nome" : "Wales"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186501008-a3756c3b-2fba-4bff-b228-4241f24687c2.png"
+   }
+  }
+]
