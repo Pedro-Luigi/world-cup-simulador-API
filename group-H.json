@@ -1,0 +1,21 @@
+[
+  {
+   "grupo" : "Grupo H",
+   "selecaoA" : {
+        "nome" : "Portugal",
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506309-544e7352-1922-4448-bd2c-54497409644a.png"
+   },
+   "selecaoB" : {
+        "nome" : "Ghana"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506349-65af03dd-4d21-43f7-9bf1-c20eb433faeb.png"
+   },
+   "selecaoC" : {
+        "nome" : "Uruguay"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506380-f7aa2c51-262b-4d59-825d-5ac52ef9ec15.png"
+   },
+   "selecaoD" : {
+        "nome" : "Korea Republic"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186506406-a8d34925-bece-408d-ab65-8feb4adc397e.png"
+   }
+  }
+]
