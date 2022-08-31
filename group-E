@@ -1,0 +1,21 @@
+[
+  {
+   "grupo" : "Grupo E",
+   "selecaoA" : {
+        "nome" : "Spain",
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502916-9dbfc134-9670-4abd-8b90-7259b68a1386.png"
+   },
+   "selecaoB" : {
+        "nome" : "Germany"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502939-895614c4-ac5c-4de8-9de2-3d4ca3b0cf42.png"
+   },
+   "selecaoC" : {
+        "nome" : "Japan"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502953-1701fef3-519e-4b44-a07b-87ed7e516f3d.png"
+   },
+   "selecaoD" : {
+        "nome" : "Costa Rica"
+        "imagem" : "https://user-images.githubusercontent.com/68929840/186502970-80b87493-c356-4f4c-a8f4-004fb8e521d7.png"
+   }
+  }
+]
